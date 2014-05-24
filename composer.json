@@ -1,0 +1,10 @@
+{
+    "name": "olavocn/buscape-php",
+    "authors": [
+        {
+            "name": "Olavo Neto",
+            "email": "olavocn.neto@gmail.com"
+        }
+    ],
+    "require": {}
+}
